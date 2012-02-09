@@ -1,4 +1,8 @@
-// press 's' to switch from polar to cartesian
+/*
+press 's' to switch from polar to cartesian
+sequencer based on "SteppySeq" by Rux,
+http://www.rux-werx-here.net/abunchofexperiments/
+*/
 
 import processing.opengl.*;
 import toxi.geom.*;

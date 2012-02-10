@@ -1,0 +1,8 @@
+#N canvas 835 301 394 306 10;
+#X obj -55 63 sendOSC;
+#X msg -55 -17 connect localhost 12000;
+#X floatatom -45 10 5 0 0 0 - - -;
+#X obj -35 36 prepend send;
+#X connect 1 0 0 0;
+#X connect 2 0 3 0;
+#X connect 3 0 0 0;

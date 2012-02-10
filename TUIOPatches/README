@@ -1,0 +1,11 @@
+Pure Data and Max4Live patches I've used in the past to learn, make stuff with and teach other people about the TUIO protocol, and tangible+multitouch interfaces. These were originally based on a MaxMSP patch by Matthieu Pernaud - http://lematt.pernotone.net/
+
+To use any of these you'll need:
+- a tangible interface capable of sending TUIO OSC messages (based on Reactivision or Community Core Vision, for example), or,
+- a TUIO input simulator.
+
+For the PD patches you'll need Pure Data + TUIO.
+
+For the Max4Live patches you'll need to have Max4Live up and running and add the TUIO externals to Max.
+
+Bernardo Santos, 2012

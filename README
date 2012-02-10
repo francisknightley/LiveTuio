@@ -1,0 +1,5 @@
+the goal of this app is to provide a tangible and multi-touch interface for ableton live, in both studio and performance settings. this is about a year old now. in the meantime, I've had the chance to use the circular ReacTable, an interface for which is planned.
+
+the reason for the project re-surfacing and development furthered is that i feel the world deserves this. originally planned to code this in Processing, but now i'm thinking about openFrameworks or Cinder.
+
+for now i'm just setting up the repository with bits and pieces of code in different languages, and outlining development.  

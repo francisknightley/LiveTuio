@@ -1,7 +1,9 @@
-the goal of this app is to provide a tangible and multi-touch interface for Ableton Live, in both studio and performance settings. this is about a year old now. in the meantime, I've had the chance to use the circular ReacTable, an interface for which is planned.
+the goal of this app is to provide a tangible and multi-touch interface for Ableton Live, in both studio and performance settings. this is about a year old now, and started as a side project which i had to leave on hold for a while. in the meantime, I've had the chance to use the circular ReacTable, an interface for which is planned.
 
-the reason for the project re-surfacing and development furthered is that i feel the world deserves this. originally planned to code this in Processing, but now i'm thinking about openFrameworks or Cinder.
+the reason for the project re-surfacing and development furthered is that i feel the world deserves this. originally planned to code this in Processing, but now i'm thinking about openFrameworks or Cinder. this means the same functionality, with improved speed.
 
-for now i'm just setting up the repository with bits and pieces of code in different languages, and outlining development.
+for now i'm just setting up the repository with bits and pieces of TUIO code in different languages and outlining development.
+
+collaboration most welcome, especially someone who already knows a bit about the Live API in M4L.
 
 http://www.flickr.com/photos/bsantos83/sets/72157629248468877/
